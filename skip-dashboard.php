@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Skip Dashboard
+ * Plugin Name: Iron Code Skip Dashboard
  * Plugin URI: http://salferrarello.com/skip-dashboard-wordpress-plugin/
  * Description: On login, users with access load the the backend wp-admin Posts list instead of the dashboard.  Those users who do not have access to that page (e.g. subscribers), load the dashboard as they always have.
  * Version: 0.1.0
